@@ -1,0 +1,19 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/miguel/Documents/Beam/Amz_DE/src/test/resources/asin_hierarchy.csv,/Users/miguel/Documents/Beam/Amz_DE/target/test-classes/asin_hierarchy.csv)[0m
+[0m[[0mdebug[0m] [0m	(/Users/miguel/Documents/Beam/Amz_DE/src/test/resources/product_catalog.csv,/Users/miguel/Documents/Beam/Amz_DE/target/test-classes/product_catalog.csv)[0m
+[0m[[0mdebug[0m] [0m	(/Users/miguel/Documents/Beam/Amz_DE/src/test/resources/germany_cities.csv,/Users/miguel/Documents/Beam/Amz_DE/target/test-classes/germany_cities.csv)[0m
+[0m[[0mdebug[0m] [0m	(/Users/miguel/Documents/Beam/Amz_DE/src/test/resources/sales_diagnostic_shipped.csv,/Users/miguel/Documents/Beam/Amz_DE/target/test-classes/sales_diagnostic_shipped.csv)[0m
+[0m[[0mdebug[0m] [0m	(/Users/miguel/Documents/Beam/Amz_DE/src/test/resources/sales_diagnostic_ordered.csv,/Users/miguel/Documents/Beam/Amz_DE/target/test-classes/sales_diagnostic_ordered.csv)[0m
+[0m[[0mdebug[0m] [0m	(/Users/miguel/Documents/Beam/Amz_DE/src/test/resources/harmonization,/Users/miguel/Documents/Beam/Amz_DE/target/test-classes/harmonization)[0m
+[0m[[0mdebug[0m] [0m	(/Users/miguel/Documents/Beam/Amz_DE/src/test/resources/cv_h_at_material,/Users/miguel/Documents/Beam/Amz_DE/target/test-classes/cv_h_at_material)[0m
+[0m[[0mdebug[0m] [0m	(/Users/miguel/Documents/Beam/Amz_DE/src/test/resources/cv_h_at_material_unit_of_measure,/Users/miguel/Documents/Beam/Amz_DE/target/test-classes/cv_h_at_material_unit_of_measure)[0m
+[0m[[0mdebug[0m] [0m	(/Users/miguel/Documents/Beam/Amz_DE/src/test/resources/amz_review_products.csv,/Users/miguel/Documents/Beam/Amz_DE/target/test-classes/amz_review_products.csv)[0m
+[0m[[0mdebug[0m] [0m	(/Users/miguel/Documents/Beam/Amz_DE/src/test/resources/geographic_sales.csv,/Users/miguel/Documents/Beam/Amz_DE/target/test-classes/geographic_sales.csv)[0m
+[0m[[0mdebug[0m] [0m	(/Users/miguel/Documents/Beam/Amz_DE/src/test/resources/sales_diagnostic_sourcing.csv,/Users/miguel/Documents/Beam/Amz_DE/target/test-classes/sales_diagnostic_sourcing.csv)[0m
+[0m[[0mdebug[0m] [0m	(/Users/miguel/Documents/Beam/Amz_DE/src/test/resources/sentiments.csv,/Users/miguel/Documents/Beam/Amz_DE/target/test-classes/sentiments.csv)[0m
+[0m[[0mdebug[0m] [0m	(/Users/miguel/Documents/Beam/Amz_DE/src/test/resources/harmonization/sales_diagnostic,/Users/miguel/Documents/Beam/Amz_DE/target/test-classes/harmonization/sales_diagnostic)[0m
+[0m[[0mdebug[0m] [0m	(/Users/miguel/Documents/Beam/Amz_DE/src/test/resources/harmonization/geographic_sales_insights,/Users/miguel/Documents/Beam/Amz_DE/target/test-classes/harmonization/geographic_sales_insights)[0m
+[0m[[0mdebug[0m] [0m	(/Users/miguel/Documents/Beam/Amz_DE/src/test/resources/harmonization/sales_diagnostic/_SUCCESS,/Users/miguel/Documents/Beam/Amz_DE/target/test-classes/harmonization/sales_diagnostic/_SUCCESS)[0m
+[0m[[0mdebug[0m] [0m	(/Users/miguel/Documents/Beam/Amz_DE/src/test/resources/harmonization/sales_diagnostic/part-00000-f4570408-427f-4356-a020-bbbe1b39526f-c000.snappy.parquet,/Users/miguel/Documents/Beam/Amz_DE/target/test-classes/harmonization/sales_diagnostic/part-00000-f4570408-427f-4356-a020-bbbe1b39526f-c000.snappy.parquet)[0m
+[0m[[0mdebug[0m] [0m	(/Users/miguel/Documents/Beam/Amz_DE/src/test/resources/harmonization/geographic_sales_insights/part-00000-2ced5fc7-b3c2-4133-a8d6-a517a574d444-c000.snappy.parquet,/Users/miguel/Documents/Beam/Amz_DE/target/test-classes/harmonization/geographic_sales_insights/part-00000-2ced5fc7-b3c2-4133-a8d6-a517a574d444-c000.snappy.parquet)[0m
+[0m[[0mdebug[0m] [0m	(/Users/miguel/Documents/Beam/Amz_DE/src/test/resources/harmonization/geographic_sales_insights/_SUCCESS,/Users/miguel/Documents/Beam/Amz_DE/target/test-classes/harmonization/geographic_sales_insights/_SUCCESS)[0m

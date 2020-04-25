@@ -1,0 +1,21 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.beamsuntory.amz.de.reporting.ReportingArapTest, org.scalatest.tools.Framework$$anon$1@7ddcada, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.beamsuntory.amz.de.harmonization.HarmonizationArapTest, org.scalatest.tools.Framework$$anon$1@7ddcada, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.beamsuntory.amz.de.harmonization.HarmonizationReviewsTest, org.scalatest.tools.Framework$$anon$1@7ddcada, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.beamsuntory.amz.de.test.FeatureBasicTest, org.scalatest.tools.Framework$$anon$1@7ddcada, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.beamsuntory.amz.de.harmonization.HarmonizationAmsTest, org.scalatest.tools.Framework$$anon$1@7ddcada, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.beamsuntory.amz.de.functional.FunctionalArapTest, org.scalatest.tools.Framework$$anon$1@7ddcada, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0mScalaTest[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 51 seconds, 527 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 5[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 6, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 5, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0mdebug[0m] [0mSummary for JUnit not available.[0m
+[0m[[0minfo[0m] [0mPassed: Total 5, Failed 0, Errors 0, Passed 5[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	com.beamsuntory.amz.de.functional.FunctionalArapTest[0m
+[0m[[0mdebug[0m] [0m	com.beamsuntory.amz.de.reporting.ReportingArapTest[0m
+[0m[[0mdebug[0m] [0m	com.beamsuntory.amz.de.harmonization.HarmonizationArapTest[0m
+[0m[[0mdebug[0m] [0m	com.beamsuntory.amz.de.harmonization.HarmonizationReviewsTest[0m
+[0m[[0mdebug[0m] [0m	com.beamsuntory.amz.de.test.FeatureBasicTest[0m
+[0m[[0mdebug[0m] [0m	com.beamsuntory.amz.de.harmonization.HarmonizationAmsTest[0m

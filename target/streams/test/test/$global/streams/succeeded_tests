@@ -1,0 +1,8 @@
+#Successful Tests
+#Thu Mar 14 15:26:03 CET 2019
+com.beamsuntory.amz.de.reporting.ReportingArapTest=1552573515194
+com.beamsuntory.amz.de.harmonization.HarmonizationArapTest=1552573563414
+com.beamsuntory.amz.de.harmonization.HarmonizationReviewsTest=1552573563482
+com.beamsuntory.amz.de.test.FeatureBasicTest=1552573563484
+com.beamsuntory.amz.de.functional.FunctionalArapTest=1552573563647
+com.beamsuntory.amz.de.harmonization.HarmonizationAmsTest=1552573563558

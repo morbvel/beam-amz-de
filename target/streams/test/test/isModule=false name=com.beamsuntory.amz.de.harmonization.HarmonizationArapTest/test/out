@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mHarmonizationArapTest:[0m[0m
+[0m[[0minfo[0m] [0m[32m- Test the Arap Harmonization Flow[0m[0m
+[0m[[0minfo[0m] [0m[32m  + Given Sales diagnostic and geographic tables valid from Arap [0m[0m
+[0m[[0minfo[0m] [0m[32m  + When Try to execute Sales Diagnostic Intermediate Tables [0m[0m
+[0m[[0minfo[0m] [0m[32m  + Then The results of the sales diagnostic ordered stg [0m[0m
+[0m[[0minfo[0m] [0m[32m  + Then The results of the sales diagnostic shipped stg [0m[0m
+[0m[[0minfo[0m] [0m[32m  + Then The results of the sales diagnostic shipped sourcing stg [0m[0m
+[0m[[0minfo[0m] [0m[32m  + When Try to execute Geographic Sales Cleaning Exectution [0m[0m
+[0m[[0minfo[0m] [0m[32m  + Then The result is the geographic sales cleaning table [0m[0m

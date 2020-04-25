@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: commons
+Implementation-Version: 1.0.0-04
+Specification-Vendor: com.beamsuntory.bgc.commons
+Specification-Title: commons
+Implementation-Vendor-Id: com.beamsuntory.bgc.commons
+Specification-Version: 1.0.0-04
+Implementation-Vendor: com.beamsuntory.bgc.commons
+Main-Class: myPackage.BeamMain
+

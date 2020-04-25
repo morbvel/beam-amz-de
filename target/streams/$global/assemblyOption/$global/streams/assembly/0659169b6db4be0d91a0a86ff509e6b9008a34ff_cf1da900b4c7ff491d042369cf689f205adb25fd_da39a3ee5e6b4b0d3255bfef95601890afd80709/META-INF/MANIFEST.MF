@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: edw
+Implementation-Version: 1.0.0-00
+Specification-Vendor: com.beamsuntory.thebar.gl
+Specification-Title: edw
+Implementation-Vendor-Id: com.beamsuntory.thebar.gl
+Specification-Version: 1.0.0-00
+Implementation-Vendor: com.beamsuntory.thebar.gl
+Main-Class: myPackage.EDWMain
+

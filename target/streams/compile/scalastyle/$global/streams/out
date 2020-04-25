@@ -1,0 +1,158 @@
+[0m[[0minfo[0m] [0mscalastyle using config /Users/miguel/Documents/Beam/Amz_DE/scalastyle-config.xml[0m
+[0m[[0mdebug[0m] [0mStarting scalastyle[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/ams/ReportingAms.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/ams/ReportingAms.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/ams/ReportingAmsService.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/ams/ReportingAmsService.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/arap/ReportingArapService.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/arap/ReportingArapService.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/arap/ReportingArap.scala[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/arap/ReportingArap.scala: File must end with newline character[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/arap/ReportingArap.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/keepa/ReportingKeepa.scala[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/keepa/ReportingKeepa.scala: File must end with newline character[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/keepa/ReportingKeepa.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/keepa/ReportingKeepaService.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/keepa/ReportingKeepaService.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/reviews/ReportingReviews.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/reviews/ReportingReviews.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/reviews/ReportingReviewsService.scala[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/reviews/ReportingReviewsService.scala:40:6: Method name does not match the regular expression '^[a-z][A-Za-z0-9]*$'[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/reviews/ReportingReviewsService.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/ams/HarmonizationAmsService.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/ams/HarmonizationAmsService.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/ams/HarmonizationAms.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/ams/HarmonizationAms.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationArapService.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationArapService.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationArapColumns.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationArapColumns.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationArap.scala[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationArap.scala:344:34: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationArap.scala:362:63: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationArap.scala:370:34: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationArap.scala:390:63: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationArap.scala: File must end with newline character[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationArap.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationEdwColumns.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationEdwColumns.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationEdw.scala[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationEdw.scala:51:25: Avoid using null[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationEdw.scala:53:25: Avoid using null[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationEdw.scala:55:25: Avoid using null[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationEdw.scala:57:25: Avoid using null[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationEdw.scala:59:25: Avoid using null[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationEdw.scala:61:25: Avoid using null[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationEdw.scala:63:25: Avoid using null[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationEdw.scala:65:25: Avoid using null[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationEdw.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationArapSeqs.scala[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationArapSeqs.scala:110: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationArapSeqs.scala:149: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationArapSeqs.scala:186: File line length exceeds 160 characters[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationArapSeqs.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/keepa/HarmonizationHierarchy.scala[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/keepa/HarmonizationHierarchy.scala:138:6: Method is longer than 50 lines[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/keepa/HarmonizationHierarchy.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/keepa/HarmonizationKeepaService.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/keepa/HarmonizationKeepaService.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/keepa/HarmonizationKeepa.scala[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/keepa/HarmonizationKeepa.scala:82:55: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/keepa/HarmonizationKeepa.scala:45:36: Avoid using null[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/keepa/HarmonizationKeepa.scala: File must end with newline character[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/keepa/HarmonizationKeepa.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/reviews/HarmonizationReviewsService.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/reviews/HarmonizationReviewsService.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/reviews/HarmonizationReviews.scala[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/reviews/HarmonizationReviews.scala:154:68: There should be a space before the plus (+) sign[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/reviews/HarmonizationReviews.scala:32:6: Method is longer than 50 lines[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/reviews/HarmonizationReviews.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/reviews/HarmonizationReviewsColumns.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/reviews/HarmonizationReviewsColumns.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/ComplexAccumulatorV2.scala[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/ComplexAccumulatorV2.scala:10:4: Avoid using return[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/ComplexAccumulatorV2.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/UtilsAmzDE.scala[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/UtilsAmzDE.scala:26:11: Avoid using null[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/UtilsAmzDE.scala:26:19: Avoid using null[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/UtilsAmzDE.scala:27:24: Avoid using null[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/UtilsAmzDE.scala:28:18: Avoid using null[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/UtilsAmzDE.scala:29:17: Avoid using null[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/UtilsAmzDE.scala:38:11: Avoid using null[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/UtilsAmzDE.scala:38:19: Avoid using null[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/UtilsAmzDE.scala:122:6: If block needs braces[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/UtilsAmzDE.scala:168:6: If block needs braces[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/UtilsAmzDE.scala:181:6: If block needs braces[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/UtilsAmzDE.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/models/ModelsCaseClass.scala[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/models/ModelsCaseClass.scala:616:0: Whitespace at end of line[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/models/ModelsCaseClass.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/CommonsAmzDE.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/CommonsAmzDE.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/ModelsAmzDE.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/ModelsAmzDE.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/AmzDEmain.scala[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/AmzDEmain.scala:21:6: Cyclomatic complexity of 23 exceeds max of 10[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/AmzDEmain.scala:21:6: Method is longer than 50 lines[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/AmzDEmain.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalScenariosAms.scala[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalScenariosAms.scala:20: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalScenariosAms.scala:21: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalScenariosAms.scala:23: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalScenariosAms.scala:24: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalScenariosAms.scala:25: File line length exceeds 160 characters[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalScenariosAms.scala: File must end with newline character[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalScenariosAms.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalAmsService.scala[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalAmsService.scala:40:0: Whitespace at end of line[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalAmsService.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalAmsEdw.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalAmsEdw.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalRadarAmsColumns.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalRadarAmsColumns.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalRadarAms.scala[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalRadarAms.scala:45:23: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalRadarAms.scala:45:29: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalRadarAms.scala:45:34: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalRadarAms.scala:45:42: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalRadarAms.scala:45:48: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalRadarAms.scala:46:23: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalRadarAms.scala:46:29: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalRadarAms.scala:46:35: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalRadarAms.scala:46:39: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalRadarAms.scala:46:44: Magic Number[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalRadarAms.scala:46:48: Magic Number[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalRadarAms.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalAmsEdwColumns.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalAmsEdwColumns.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/arap/FunctionalArapEdw.scala[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/arap/FunctionalArapEdw.scala: File must end with newline character[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/arap/FunctionalArapEdw.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/arap/FunctionalArapService.scala[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/arap/FunctionalArapService.scala:23:0: Whitespace at end of line[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/arap/FunctionalArapService.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/arap/FunctionalArapEdwColumns.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/arap/FunctionalArapEdwColumns.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/arap/FunctionalEdw.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/arap/FunctionalEdw.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/keepa/FunctionalGeographicKeepa.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/keepa/FunctionalGeographicKeepa.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/keepa/FunctionalKeepaEdw.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/keepa/FunctionalKeepaEdw.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/keepa/FunctionalKeepaEdwColumns.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/keepa/FunctionalKeepaEdwColumns.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/keepa/FunctionalKeepaService.scala[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/keepa/FunctionalKeepaService.scala:40:0: Whitespace at end of line[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/keepa/FunctionalKeepaService.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/reviews/FunctionalReviews.scala[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/reviews/FunctionalReviews.scala[0m
+[0m[[0mdebug[0m] [0mstart file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/reviews/FunctionalReviewsService.scala[0m
+[0m[[33mwarn[0m] [0m/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/reviews/FunctionalReviewsService.scala:40:6: Method name does not match the regular expression '^[a-z][A-Za-z0-9]*$'[0m
+[0m[[0mdebug[0m] [0mend file /Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/reviews/FunctionalReviewsService.scala[0m
+[0m[[0minfo[0m] [0mscalastyle Processed 44 file(s)[0m
+[0m[[0minfo[0m] [0mscalastyle Found 0 errors[0m
+[0m[[0minfo[0m] [0mscalastyle Found 61 warnings[0m
+[0m[[0minfo[0m] [0mscalastyle Found 0 infos[0m
+[0m[[0minfo[0m] [0mscalastyle Finished in 15 ms[0m
+[0m[[32msuccess[0m] [0mcreated output: /Users/miguel/Documents/Beam/Amz_DE/target[0m
+[0m[[33mwarn[0m] [0mwarnings exist[0m

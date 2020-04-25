@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.0">
+ <file name="/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalScenariosAms.scala">
+  <error line="20" source="org.scalastyle.file.FileLineLengthChecker" severity="warning" message="File line length exceeds 160 characters"/>
+  <error line="21" source="org.scalastyle.file.FileLineLengthChecker" severity="warning" message="File line length exceeds 160 characters"/>
+  <error line="23" source="org.scalastyle.file.FileLineLengthChecker" severity="warning" message="File line length exceeds 160 characters"/>
+  <error line="24" source="org.scalastyle.file.FileLineLengthChecker" severity="warning" message="File line length exceeds 160 characters"/>
+  <error line="25" source="org.scalastyle.file.FileLineLengthChecker" severity="warning" message="File line length exceeds 160 characters"/>
+  <error source="org.scalastyle.file.NewLineAtEofChecker" severity="warning" message="File must end with newline character"/>
+ </file>
+ <file name="/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalRadarAms.scala">
+  <error column="23" line="45" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="29" line="45" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="34" line="45" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="42" line="45" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="48" line="45" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="23" line="46" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="29" line="46" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="35" line="46" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="39" line="46" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="44" line="46" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="48" line="46" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+ </file>
+ <file name="/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/UtilsAmzDE.scala">
+  <error column="11" line="26" source="org.scalastyle.scalariform.NullChecker" severity="warning" message="Avoid using null"/>
+  <error column="19" line="26" source="org.scalastyle.scalariform.NullChecker" severity="warning" message="Avoid using null"/>
+  <error column="24" line="27" source="org.scalastyle.scalariform.NullChecker" severity="warning" message="Avoid using null"/>
+  <error column="18" line="28" source="org.scalastyle.scalariform.NullChecker" severity="warning" message="Avoid using null"/>
+  <error column="17" line="29" source="org.scalastyle.scalariform.NullChecker" severity="warning" message="Avoid using null"/>
+  <error column="11" line="38" source="org.scalastyle.scalariform.NullChecker" severity="warning" message="Avoid using null"/>
+  <error column="19" line="38" source="org.scalastyle.scalariform.NullChecker" severity="warning" message="Avoid using null"/>
+  <error column="6" line="122" source="org.scalastyle.scalariform.IfBraceChecker" severity="warning" message="If block needs braces"/>
+  <error column="6" line="168" source="org.scalastyle.scalariform.IfBraceChecker" severity="warning" message="If block needs braces"/>
+  <error column="6" line="181" source="org.scalastyle.scalariform.IfBraceChecker" severity="warning" message="If block needs braces"/>
+ </file>
+ <file name="/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationArap.scala">
+  <error column="34" line="344" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="63" line="362" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="34" line="370" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="63" line="390" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error source="org.scalastyle.file.NewLineAtEofChecker" severity="warning" message="File must end with newline character"/>
+ </file>
+ <file name="/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationArapSeqs.scala">
+  <error line="110" source="org.scalastyle.file.FileLineLengthChecker" severity="warning" message="File line length exceeds 160 characters"/>
+  <error line="149" source="org.scalastyle.file.FileLineLengthChecker" severity="warning" message="File line length exceeds 160 characters"/>
+  <error line="186" source="org.scalastyle.file.FileLineLengthChecker" severity="warning" message="File line length exceeds 160 characters"/>
+ </file>
+ <file name="/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/AmzDEmain.scala">
+  <error column="6" line="21" source="org.scalastyle.scalariform.CyclomaticComplexityChecker" severity="warning" message="Cyclomatic complexity of 23 exceeds max of 10"/>
+  <error column="6" line="21" source="org.scalastyle.scalariform.MethodLengthChecker" severity="warning" message="Method is longer than 50 lines"/>
+ </file>
+ <file name="/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/arap/FunctionalArapEdw.scala">
+  <error source="org.scalastyle.file.NewLineAtEofChecker" severity="warning" message="File must end with newline character"/>
+ </file>
+ <file name="/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/arap/ReportingArap.scala">
+  <error source="org.scalastyle.file.NewLineAtEofChecker" severity="warning" message="File must end with newline character"/>
+ </file>
+ <file name="/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/reviews/HarmonizationReviews.scala">
+  <error column="68" line="154" source="org.scalastyle.scalariform.SpacesBeforePlusChecker" severity="warning" message="There should be a space before the plus (+) sign"/>
+  <error column="6" line="32" source="org.scalastyle.scalariform.MethodLengthChecker" severity="warning" message="Method is longer than 50 lines"/>
+ </file>
+ <file name="/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/reviews/FunctionalReviewsService.scala">
+  <error column="6" line="40" source="org.scalastyle.scalariform.MethodNamesChecker" severity="warning" message="Method name does not match the regular expression '^[a-z][A-Za-z0-9]*$'"/>
+ </file>
+ <file name="/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/keepa/HarmonizationHierarchy.scala">
+  <error column="6" line="138" source="org.scalastyle.scalariform.MethodLengthChecker" severity="warning" message="Method is longer than 50 lines"/>
+ </file>
+ <file name="/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/ams/FunctionalAmsService.scala">
+  <error column="0" line="40" source="org.scalastyle.file.WhitespaceEndOfLineChecker" severity="warning" message="Whitespace at end of line"/>
+ </file>
+ <file name="/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/models/ModelsCaseClass.scala">
+  <error column="0" line="616" source="org.scalastyle.file.WhitespaceEndOfLineChecker" severity="warning" message="Whitespace at end of line"/>
+ </file>
+ <file name="/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/keepa/ReportingKeepa.scala">
+  <error source="org.scalastyle.file.NewLineAtEofChecker" severity="warning" message="File must end with newline character"/>
+ </file>
+ <file name="/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/arap/FunctionalArapService.scala">
+  <error column="0" line="23" source="org.scalastyle.file.WhitespaceEndOfLineChecker" severity="warning" message="Whitespace at end of line"/>
+ </file>
+ <file name="/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/arap/HarmonizationEdw.scala">
+  <error column="25" line="51" source="org.scalastyle.scalariform.NullChecker" severity="warning" message="Avoid using null"/>
+  <error column="25" line="53" source="org.scalastyle.scalariform.NullChecker" severity="warning" message="Avoid using null"/>
+  <error column="25" line="55" source="org.scalastyle.scalariform.NullChecker" severity="warning" message="Avoid using null"/>
+  <error column="25" line="57" source="org.scalastyle.scalariform.NullChecker" severity="warning" message="Avoid using null"/>
+  <error column="25" line="59" source="org.scalastyle.scalariform.NullChecker" severity="warning" message="Avoid using null"/>
+  <error column="25" line="61" source="org.scalastyle.scalariform.NullChecker" severity="warning" message="Avoid using null"/>
+  <error column="25" line="63" source="org.scalastyle.scalariform.NullChecker" severity="warning" message="Avoid using null"/>
+  <error column="25" line="65" source="org.scalastyle.scalariform.NullChecker" severity="warning" message="Avoid using null"/>
+ </file>
+ <file name="/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/commons/ComplexAccumulatorV2.scala">
+  <error column="4" line="10" source="org.scalastyle.scalariform.ReturnChecker" severity="warning" message="Avoid using return"/>
+ </file>
+ <file name="/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/harmonization/keepa/HarmonizationKeepa.scala">
+  <error column="55" line="82" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
+  <error column="36" line="45" source="org.scalastyle.scalariform.NullChecker" severity="warning" message="Avoid using null"/>
+  <error source="org.scalastyle.file.NewLineAtEofChecker" severity="warning" message="File must end with newline character"/>
+ </file>
+ <file name="/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/functional/keepa/FunctionalKeepaService.scala">
+  <error column="0" line="40" source="org.scalastyle.file.WhitespaceEndOfLineChecker" severity="warning" message="Whitespace at end of line"/>
+ </file>
+ <file name="/Users/miguel/Documents/Beam/Amz_DE/src/main/scala/com/beamsuntory/amz/de/reporting/reviews/ReportingReviewsService.scala">
+  <error column="6" line="40" source="org.scalastyle.scalariform.MethodNamesChecker" severity="warning" message="Method name does not match the regular expression '^[a-z][A-Za-z0-9]*$'"/>
+ </file>
+</checkstyle>
